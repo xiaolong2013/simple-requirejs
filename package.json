@@ -1,0 +1,33 @@
+{
+  "name": "simple-requirejs",
+  "version": "1.0.0",
+  "description": "this is simple amd",
+  "main": "index.js",
+  "directories": {
+    "test": "test"
+  },
+  "scripts": {
+    "test": "karma start"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/xiaolong2013/simple-requirejs.git"
+  },
+  "keywords": [
+    "Amd",
+    "lib"
+  ],
+  "author": "wind",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/xiaolong2013/simple-requirejs/issues"
+  },
+  "homepage": "https://github.com/xiaolong2013/simple-requirejs#readme",
+  "dependencies": {
+    "karma": "^2.0.0",
+    "karma-chrome-launcher": "^2.2.0",
+    "karma-mocha": "^1.3.0",
+    "mocha": "^5.0.0",
+    "should": "^13.2.1"
+  }
+}

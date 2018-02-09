@@ -1,2 +1,3 @@
-# simple-requirejs
-This is a Simple Amd js
+# 一个简单的AMD加载器
+
+ 
